@@ -8,7 +8,7 @@ I built this project because I was motivated to learn how to make a website. My 
 N/A
 
 ## Usage
-Each section has notes on topics such as HTML, CSS, Javascript and Git. If you open the DevTools Conole, using Google Chrome Dev you can see javascript running.
+Each section has notes on topics such as HTML, CSS, Javascript and Git. If you open the DevTools Console, using Google Chrome Dev you can see javascript running.
 
 ## Credits
 
